@@ -7,7 +7,7 @@ import styled from 'styled-components/native';
 export const SearchButton: React.FC = () => {
   return (
     <TouchableOpacity onPress={() => {}}>
-      <ImageStyled source={require('../../assets/iconSearch.png')} />
+      <ImageStyled source={require('../../assets/images/iconSearch.png')} />
     </TouchableOpacity>
   );
 };

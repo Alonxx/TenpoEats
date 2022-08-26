@@ -4,7 +4,7 @@ import styled from 'styled-components/native';
 /* Componente que renderiza el avatar del usuario */
 
 export const UserAvatar: React.FC = () => {
-  return <ImageStyled source={require('../../assets/userPhoto.png')} />;
+  return <ImageStyled source={require('../../assets/images/userPhoto.png')} />;
 };
 
 const ImageStyled = styled.Image`

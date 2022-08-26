@@ -2,7 +2,7 @@ import React from 'react';
 import {View, Animated} from 'react-native';
 import styled from 'styled-components/native';
 
-/* Componente encargado de mostrar el logo de la aplicación y sus animaciónes */
+/* Componente que renderiza el logo de la aplicación y sus animaciones */
 
 export const Logo: React.FC = () => {
   const animatedDeliverer = React.useRef(
@@ -34,18 +34,19 @@ export const Logo: React.FC = () => {
     },
     {
       style: {transform: [{rotate: '91deg'}]},
-      left: '120px',
-      top: '-5px',
+      left: '20px',
+      top: '-20px',
     },
     {
       style: {transform: [{rotate: '18deg'}]},
-      left: '130px',
-      top: '50px',
+      left: '120px',
+      top: '-5px',
     },
+
     {
       style: {transform: [{rotate: '117deg'}]},
-      left: '20px',
-      top: '-20px',
+      left: '130px',
+      top: '50px',
     },
   ];
 
@@ -75,6 +76,11 @@ export const Logo: React.FC = () => {
         </Animated.View>
 
         <ImageLogo source={require('../../assets/images/handPhone.png')} />
+        <ViewDotsContainer>
+          {Array.from(Array(3)).map((_, i) => (
+            <ViewDot key={i} select={i === 1} />
+          ))}
+        </ViewDotsContainer>
       </View>
     </ContainerView>
   );
@@ -85,6 +91,22 @@ const ContainerView = styled.View`
   justify-content: space-between;
   align-items: center;
   padding: 0px 44px 0px 16px;
+`;
+
+const ViewDot = styled.View<{select: boolean}>`
+  width: 6px;
+  height: 6px;
+  border: 1px solid black;
+  border-radius: 50px;
+  margin-left: 3px;
+  background-color: ${props => (props.select ? '#00baa4' : 'none')};
+`;
+
+const ViewDotsContainer = styled.View`
+  flex-direction: row;
+  position: absolute;
+  bottom: 10px;
+  right: -30px;
 `;
 
 const TextLogoBig = styled.Text<{black: boolean}>`

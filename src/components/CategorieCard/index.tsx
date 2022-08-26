@@ -36,7 +36,7 @@ const TextTitle = styled.Text`
   font-size: 14px;
   font-family: 'Gotham';
   color: white;
-  letter-spacing: 1.4px;
+  letter-spacing: 1.2px;
   align-self: center;
 `;
 
