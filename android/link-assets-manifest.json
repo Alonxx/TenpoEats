@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Gotham-Black.otf",
+      "sha1": "a3cdcc0c2ff9c6289ccc5ae1bb9eade3395626da"
+    },
+    {
+      "path": "src/assets/fonts/Gotham-Bold.otf",
+      "sha1": "5963224900d40f243ab3c8ec35f21adfbb60cf1d"
+    },
+    {
+      "path": "src/assets/fonts/Gotham-BookItalic.otf",
+      "sha1": "de824c676848ccff284754eb83aa423c204aa3c7"
+    },
+    {
+      "path": "src/assets/fonts/Gotham-Light.otf",
+      "sha1": "3abc902e40df2ec26333b919d268556bfc6cb723"
+    },
+    {
+      "path": "src/assets/fonts/Gotham-Thin.otf",
+      "sha1": "8c674e85861583ea43c472973a3b09da9ba4d792"
+    },
+    {
+      "path": "src/assets/fonts/Gotham-ThinItalic.otf",
+      "sha1": "a37567b03b962ddfa20131463b2753174e92d593"
+    },
+    {
+      "path": "src/assets/fonts/Gotham-UltraItalic.otf",
+      "sha1": "ac639d09e69620d6a06f9c6a6f73c853818cdbf9"
+    },
+    {
+      "path": "src/assets/fonts/Gotham-XLight.otf",
+      "sha1": "c370235de05219139b91d7ef68ea560d0bf90b4b"
+    },
+    {
+      "path": "src/assets/fonts/Gotham-XLightItalic.otf",
+      "sha1": "afc40a573f2612530c9777feef9c456009caa38f"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Black.ttf",
+      "sha1": "3f8e401d808f6ce84b542266726514ac8be73171"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-BlackItalic.ttf",
+      "sha1": "03d6e3747d862385dbe48e8296385b9236101a62"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "2f10ad9e8cab0880182705c4e0fbaeabae706e64"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Italic.ttf",
+      "sha1": "65f3f6a7e1bd2fa6f2df35e4b07775d7f1dde4f0"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-LightItalic.ttf",
+      "sha1": "6e01f9df9449565697032b002706a94b51862bbe"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "b3aa2d8f16d5a331fdced82f213a052b204eaca0"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Thin.ttf",
+      "sha1": "58c733e22bceeaf9609ce578eca92ac303c6d92f"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-ThinItalic.ttf",
+      "sha1": "cc79d5a23bd0ec08b1d99f5390bf33cacc3082f4"
+    }
+  ]
+}
