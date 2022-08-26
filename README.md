@@ -1,4 +1,4 @@
-# TenpoEats
+# TenpoEats 🍔
 Find your favorite food, and order it at the best restaurants in your area
 
 <p align="center">
@@ -11,18 +11,28 @@ Find your favorite food, and order it at the best restaurants in your area
  
 
  
-### Installation
+### Installation 💻
 
 - run `npm install` or `yarn install`
+
+### If you are on Mac 🍎
  
+ - run `pod install` in ios project folder
  
- ### Run on Device
+ ### Run on Device ⚒️
 
-- run `npm run android` - `yarn run android` or `npm run ios` - `yarn run ios` to run on device or emulator
+- run `npm run android` - `yarn run android` or  -`npm run ios` - `yarn run ios` to run on device or emulator
 
+### Technologies used 🔥
 
-### Project info
+- React Native
+- Styled-components
+- React Native animated
+
+### Project info 👨‍💻
 
 The objective of this project is a challenge for Dacodes-Tenpo
+
+
 
 
