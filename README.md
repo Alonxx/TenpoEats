@@ -27,7 +27,6 @@ Find your favorite food, and order it at the best restaurants in your area
 
 - React Native
 - Styled-components
-- React Native animated
 
 ### Project info 👨‍💻
 
