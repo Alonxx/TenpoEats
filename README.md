@@ -28,10 +28,6 @@ Find your favorite food, and order it at the best restaurants in your area
 - React Native
 - Styled-components
 
-### Project info 👨‍💻
-
-The objective of this project is a challenge for Dacodes-Tenpo
-
 
 
 
